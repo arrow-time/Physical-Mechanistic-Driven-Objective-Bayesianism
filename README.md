@@ -38,9 +38,14 @@ Heavy-tailed distributions share a similar explanation: their origin lies in abr
 
 Consequently, the aforementioned cases violating the Central Limit Theorem are not, in essence, a matter of "insufficient sample size" in the statistical sense. Rather, the nature of the events themselves no longer satisfies the requirement of identical distribution—the event type undergoes a substantive drift during the sampling process.
 
-References：
+### References：
+
 1.Jaynes, E. T. (1957). Information theory and statistical mechanics. Physical Review, 106(4), 620–630. https://doi.org/10.1103/PhysRev.106.620
+
 2.Jaynes, E. T. (1957). Information theory and statistical mechanics II. Physical Review, 108(2), 171–190. https://doi.org/10.1103/PhysRev.108.171 
+
 3.Jaynes, E. T. (2003). Probability theory: The logic of science. Cambridge University Press. https://doi.org/10.1017/CBO9780511790423 
+
 4.Popper, K. (1959). The propensity interpretation of probability. The British Journal for the Philosophy of Science, 10(37), 25–42. https://doi.org/10.1093/bjps/X.37.25
+
 5.Jeffreys, H. (1946). An invariant form for the prior probability in estimation problems. Proceedings of the Royal Society of London. Series A, 186(1007), 453–461. https://doi.org/10.1098/rspa.1946.0056
