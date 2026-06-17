@@ -13,12 +13,16 @@ https://orcid.org/0009-0000-4279-1064
 Funding Declaration：No funding was received
 
 
-Abstract
-This paper proposes a Physical-Mechanistic Objective Bayesianism (PMOB), positing that probability distributions originate not from informational constraints (Jaynes, 1957a, 1957b; Jaynes, 2003) or geometric invariance (Jeffreys, 1946), but from the superposition of physical driving mechanisms constrained by global conservation laws. 
+### Abstract
 
-Introduction
-The interpretation of probability has long been divided among subjective, frequentist, and objective Bayesian accounts. The objective Bayesian tradition—exemplified by Jaynes (1957a, 1957b; 2003), Jeffreys (1946), and Popper (1959)—has made significant progress in grounding probability in constraints that transcend personal bias, whether informational, geometrical, or physical. This paper proposes Physical-Mechanistic Objective Bayesianism (PMOB) as a further development—and radicalization—of this lineage. PMOB asserts a strong reductionist and ontological claim: statistical distributions are not merely constrained by information or geometry, nor vaguely "propensed"; they are the direct projective mirror images of the physical mechanisms that drive observed phenomena. Every statistical regularity is, at bottom, the macroscopic residue of numerous underlying physical driving factors, whose synthesized effect is constrained by global conservation laws derived via Noether's theorem from spacetime symmetries. PMOB is therefore strongly reductionist (statistical phenomena are reducible in principle to physical mechanisms and their interactions) and ontological (probability distributions are features of the physical world, not constructs of human inference). It elevates objective Bayesianism from a theory of inference to a theory of physical intelligibility. 
-The Central Limit Theorem as the Mirror Image of Physical Conservation Laws
+This paper proposes a Physical-Mechanistic Objective Bayesianism (PMOB), positing that probability distributions are grounded in the superposition of physical driving mechanisms constrained by global conservation laws.
+
+### Introduction
+
+The interpretation of probability has long been divided among subjective, frequentist, and objective Bayesian accounts. The objective Bayesian tradition—exemplified by Jaynes (1957a, 1957b; 2003), Jeffreys (1946), and Popper (1959)—has made significant progress in grounding probability in constraints that transcend personal bias, whether informational, geometrical, or physical. This paper proposes Physical-Mechanistic Objective Bayesianism (PMOB) as a further development—and radicalization—of this lineage. PMOB asserts a strong reductionist and ontological claim: statistical distributions are not merely constrained by information or geometry, they are the direct projective mirror images of the physical mechanisms that drive observed phenomena. Every statistical regularity is, at bottom, the macroscopic residue of numerous underlying physical driving factors, whose synthesized effect is constrained by global conservation laws derived via Noether's theorem from spacetime symmetries. PMOB is therefore strongly reductionist (statistical phenomena are reducible in principle to physical mechanisms and their interactions) and ontological (probability distributions are features of the physical world, not constructs of human inference). It elevates objective Bayesianism from a theory of inference to a theory of physical intelligibility. 
+
+
+### The Central Limit Theorem as the Mirror Image of Physical Conservation Laws
 
 From the perspective of Physical-Mechanistic Driven Objective Bayesianism, every physical phenomenon is driven by a set of underlying physical mechanisms. The interactions among these driving factors produce varying effective weights on the observed phenomenon, and this differential weighting is precisely the source of what we call randomness in the distribution of random variables.
 
